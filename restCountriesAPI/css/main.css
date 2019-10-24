@@ -1,0 +1,40 @@
+
+
+body{
+    width: 100%;
+    background-image: linear-gradient(to bottom right, #A8C2FB,#D9FDFD);
+    background-repeat: no-repeat;
+    
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+h1{
+    text-align: center;
+}
+.carouselMain{
+    width: 100%;
+   
+    
+}
+.carouselImage{
+    width: 100%;
+    
+    
+}
+.formTrip{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+  h1{
+      font-size: 2em; 
+   } 
+}
